@@ -11,8 +11,15 @@ git clone <url>
 In local repository after making changes
 git add .
 git commit -m 'created json db'
+git push origin Head
 
 
 ### Deploying to Heroku
 
-Create an heroku account.
+Create an heroku account. Install heroku cli
+npm i -g heroku 
+heroku --version
+heroku login
+heroku create my-sample-api
+git push heroku main
+heroku open
