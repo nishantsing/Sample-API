@@ -1,0 +1,36 @@
+{
+     "friends":[
+         {
+             "id":0,
+             "name":"Ganesh",
+             "description":"Short thin",
+             "qualities":["fun","long hair","helpful"],
+             "addresses":[
+                 {
+                     "addressid":"0",
+                     "number":"75",
+                     "line1":"Jalgaon",
+                     "line2":"Maharashtra",
+                     "country":"India"
+
+                 }
+             ]
+         },
+          {
+             "id":1,
+             "name":"Shubham",
+             "description":"Wakandian thin",
+             "qualities":["fun","curly hair","helpful","abba nhi manege"],
+             "addresses":[
+                 {
+                     "addressid":"0",
+                     "number":"65",
+                     "line1":"Ahmednagar",
+                     "line2":"Maharashtra",
+                     "country":"India"
+
+                 }
+             ]
+         }
+     ]
+}
